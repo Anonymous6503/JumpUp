@@ -1,0 +1,2 @@
+//Add Swipe Detection Input Method for Android
+//Addition of Ads
